@@ -1,5 +1,13 @@
  Part 2: The King's Chronicles
-   
-In a bygone era, the kingdom thrived under the reign of King Thorin, a sovereign who wielded both sword and wisdom with equal mastery. His days were adorned with daring exploits and legendary quests, venturing into realms unknown to secure the destiny of his kingdom. Thorin, a valiant warrior and a sage ruler, embarked on epic journeys, facing mythical creatures and accumulating treasures of unparalleled worth. His court became a sanctuary of knowledge, drawing scholars and poets into its fold to bask in the glow of the king's profound wisdom. Tales of his valor and sagacity echoed through time, etching a legacy woven with both adventure and enlightenment.
+
+ In a bygone era, the kingdom thrived under the reign of King Thorin, a sovereign who wielded both sword 
+ and wisdom with equal mastery. His days were adorned with daring exploits and legendary quests, 
+ venturing into realms unknown to secure the destiny of his kingdom. Thorin, a valiant warrior and a sage 
+ ruler, embarked on epic journeys, facing mythical creatures and accumulating treasures of unparalleled 
+ worth.
+
+His court became a sanctuary of knowledge, drawing scholars and poets into its fold to bask in the glow 
+of the king's profound wisdom. Tales of his valor and sagacity echoed through time, etching a legacy woven 
+with both adventure and enlightenment.
 
 
